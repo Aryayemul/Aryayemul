@@ -60,8 +60,11 @@ I enjoy building intelligent systems using Machine Learning, NLP, and modern AI 
 ## 📫 How to reach me
 
 📧 Email: arya.22310290@viit.ac.in  
+
 💼 LinkedIn: www.linkedin.com/in/arya-yemul-18611b290
+
 💻 GitHub: https://github.com/Aryayemul
+
 🔗 Portfolio: https://aryayemulportfolio.vercel.app/
 ---
 
